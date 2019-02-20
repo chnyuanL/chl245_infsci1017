@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<songList>
+	<song>
+		<songID>4396</songID>
+		<title>Rain</title>
+		<length>3:21</length>
+		<filePath>google.com</filePath>
+		<releaseDate>11/04/2018</releaseDate>
+		<recordDate>11/03/2018</recordDate>
+		<songArtists>
+			<artist>
+				<artistID>0001</artistID>
+				<firstName>Kris</firstName>
+				<lastName>Wu</lastName>
+				<bandName>None</bandName>
+				<bio>Canadian</bio>
+			</artist>
+		</songArtists>	
+	</song>
+</songList>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<artistList>
+	<artist>
+		<artistID>0001</artistID>
+		<firstName>Kris</firstName>
+		<lastName>Wu</lastName>
+		<bandName>None</bandName>
+		<bio>Canadian</bio>
+	</artist>
+</artistList>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<albumList>
+	<album>
+		<albumID>0001</albumID>
+		<title>November</title>
+		<releaseDate>11/04/2018</releaseDate>
+		<coverImagePath>desktop</coverImagePath>
+		<recordingCompany>Google</recordingCompany>
+		<numberOfTracks>2</numberOfTracks>
+		<pmrcRating>5.0</pmrcRating>
+		<length>12:00</length>
+		<albumSong>
+			<song>
+				<songID>4396</songID>
+				<title>Rain</title>
+				<length>3:21</length>
+				<filePath>google.com</filePath>
+				<releaseDate>11/04/2018</releaseDate>
+				<recordDate>11/03/2018</recordDate>
+			</song>
+		</albumSong>
+	</album>
+</albumList>
