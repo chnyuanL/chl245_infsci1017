@@ -1,0 +1,4 @@
+Builds upon assignment 5
+Implemented map interface
+Transformed all the SQL statements into PreparedStatements
+Added getConn() to DbUtilities
